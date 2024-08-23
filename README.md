@@ -4,7 +4,7 @@
 
   Header 3
 
-  párrafo hbubhbhu
+  párrafo
     -lista no ordenada
     -lista no ordenada
 
